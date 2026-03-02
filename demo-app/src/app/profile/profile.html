@@ -1,0 +1,25 @@
+<div class="profile-container">
+  <h1>Profile Page</h1>
+  <table class="profile-table">
+    <tr>
+      <td><label for="name">Name:</label></td>
+      <td><input type="text" name="name" [(ngModel)]="name" placeholder="Enter your name" /></td>
+    </tr>
+    <tr>
+      <td><label for="email">Email:</label></td>
+      <td><input type="email" name="email" [(ngModel)]="email" placeholder="Enter your email" /></td>
+    </tr>
+  </table>
+
+  <h2>Live Preview</h2>
+  <table class="profile-preview-table">
+    <tr>
+      <td><strong>Name:</strong></td>
+      <td>{{name}}</td>
+    </tr>
+    <tr>
+      <td><strong>Email:</strong></td>
+      <td>{{email}}</td>
+    </tr>
+  </table>
+</div>

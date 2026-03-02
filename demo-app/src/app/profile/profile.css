@@ -1,0 +1,44 @@
+
+.profile-container {
+	max-width: 500px;
+	margin: 40px auto;
+	padding: 24px;
+	background: #f9f9f9;
+	border-radius: 12px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.profile-table, .profile-preview-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 24px;
+}
+
+.profile-table td, .profile-preview-table td {
+	padding: 10px 12px;
+	border: 1px solid #ddd;
+}
+
+.profile-table label {
+	font-weight: 500;
+}
+
+.profile-table input[type="text"],
+.profile-table input[type="email"] {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 1em;
+}
+
+.profile-container h1 {
+	text-align: center;
+	margin-bottom: 24px;
+	color: #333;
+}
+
+.profile-container h2 {
+	margin-top: 16px;
+	color: #444;
+}
