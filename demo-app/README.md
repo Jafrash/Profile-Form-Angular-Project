@@ -17,30 +17,9 @@ A simple Angular application demonstrating core features including routing, comp
 - **Contact Us**: Contact information
 - **Profile**: Form with live preview of user input
 
-## Setup
+  <img width="1025" height="731" alt="image" src="https://github.com/user-attachments/assets/768f6395-6756-49bc-b088-3d9cf35a9e25" />
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
 
-2. Run the development server:
-   ```bash
-   ng serve
-   ```
 
-3. Open your browser and navigate to `http://localhost:4200/`
 
-## Project Output
 
-<!-- Paste screenshots or output here -->
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
